@@ -1,2 +1,2 @@
-# MukemmelSayi
+# PerfectNumber
 [Patika](www.patika.dev)
